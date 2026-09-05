@@ -14,6 +14,7 @@ A curated list of the best tools, apps, and resources for solo travelers to navi
 
 ## ✈️ Flight & Transport
 * [Skyscanner](https://www.skyscanner.com) - The industry standard for comparing flight prices across airlines.
+* [Travellagio](https://travellagio.com) - Flight price comparison with visa, budget, and seasonal guides for 44 destinations -- handy for solo trip planning.
 * [Rome2Rio](https://www.rome2rio.com) - Excellent for discovering how to get from Point A to Point B via bus, train, or ferry.
 
 ## 🏨 Accommodation
