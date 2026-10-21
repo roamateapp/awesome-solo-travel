@@ -15,6 +15,7 @@ A curated list of the best tools, apps, and resources for solo travelers to navi
 ## ✈️ Flight & Transport
 * [Skyscanner](https://www.skyscanner.com) - The industry standard for comparing flight prices across airlines.
 * [Rome2Rio](https://www.rome2rio.com) - Excellent for discovering how to get from Point A to Point B via bus, train, or ferry.
+* [Mubboo Flights](https://mubboo.flights/) - Compare flights, hotels and car rentals, with destination guides, tours and attraction tickets for trip planning.
 
 ## 🏨 Accommodation
 * [Booking.com](https://www.booking.com) - Massive inventory with flexible cancellation policies.
